@@ -1,4 +1,4 @@
-public class App {
+public class VariaveisClasse {
     public static void main(String[] args) throws Exception {
         int idade = 25;
         char cidade = "São Bernardo do Campo";
